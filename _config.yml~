@@ -3,7 +3,7 @@ title:       Hanne Fagerjord Karlsen
 email:       hmkarlsen@gmail.com
 author:      Hanne Fagerjord Karlsen
 description: "Javisite desc"
-baseurl:     ""
+baseurl:     "/javifairground"
 url:         "http://javifairground.github.io/"
 
 # Google analytics
@@ -20,7 +20,7 @@ disqus_shortname:
 
 # Social icons
 show_social_icons: false
-github_username:"javifairground"
+github_username:
 stackoverflow_id:
 twitter_username:
 google_plus_id:
