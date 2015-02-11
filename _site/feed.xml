@@ -3,16 +3,16 @@
   <channel>
     <title>Hanne Fagerjord Karlsen</title>
     <description>Javisite desc</description>
-    <link>http://javifairground.github.io//javifairground/</link>
-    <atom:link href="http://javifairground.github.io//javifairground/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://javifairground.github.io///</link>
+    <atom:link href="http://javifairground.github.io///feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Testpost</title>
         <description>&lt;p&gt;HÆI&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Nov 2015 20:45:00 +0100</pubDate>
-        <link>http://javifairground.github.io//javifairground/h%C3%A6/2015/11/02/testpost/</link>
-        <guid isPermaLink="true">http://javifairground.github.io//javifairground/h%C3%A6/2015/11/02/testpost/</guid>
+        <link>http://javifairground.github.io///h%C3%A6/2015/11/02/testpost/</link>
+        <guid isPermaLink="true">http://javifairground.github.io///h%C3%A6/2015/11/02/testpost/</guid>
       </item>
     
   </channel>
