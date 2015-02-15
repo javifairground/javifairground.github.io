@@ -36,7 +36,7 @@ January 2014 - [Juniorakademiet](http://juniorakademiet.no), _Framtidas spilltek
 [The Gathering 2011](http://www.gathering.org/tg11/en/) - _EEG and Gaming_ w/Simon McCallum
 <br>
 <br>
-![hanne](http://i.imgur.com/MvoQ1N6.jpg)
+![hanne](../images/hanneTG.jpg)
 
 ##Volunteering
 

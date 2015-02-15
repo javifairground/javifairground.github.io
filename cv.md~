@@ -4,8 +4,6 @@ title:
 permalink: /cv/
 ---
 
-tt
-
 ## Hanne Fagerjord Karlsen
 
 ## Education
