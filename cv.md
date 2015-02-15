@@ -4,14 +4,14 @@ title:
 permalink: /cv/
 ---
 
-
+tt
 
 ## Hanne Fagerjord Karlsen
 
 ## Education
 __Høgskolen i Gjøvik__<br>
 Master in Applied Computer Science, 2014.<br>
-Master Thesis: _Performance, motivation and immersion within a suite of working memory games._ Read it [here](doc/Hanne_Fagerjord_Karlsen_MScThesis_MACS_2014.pdf) if you like.
+Master Thesis: _Performance, motivation and immersion within a suite of working memory games._ Read it [here](http://javifairground.github.io/doc/Hanne_Fagerjord_Karlsen_MScThesis_MACS_2014.pdf) if you like.
 <br>
 <br>
 __Universitetet i Agder__<br>
@@ -29,7 +29,7 @@ _10. 2011 - 05 2012_
 
 ##Academia
 [ISAGA 2014](http://www.isaga2014.com/), Dornbirn, Austria.<br>
-Research Poster: _Serious Games for Military Cultural Training_. [Poster](doc/ResearchPosterA1_HanneFK.pdf)
+Research Poster: _Serious Games for Military Cultural Training_. [Poster](http://javifairground.github.io/doc/ResearchPosterA1_HanneFK.pdf)
 
 ## Talks
 
