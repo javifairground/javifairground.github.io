@@ -13,7 +13,7 @@ Master Thesis: _Performance, motivation and immersion within a suite of working 
 <br>
 <br>
 __Universitetet i Agder__<br>
-Bachelor Multimedieteknologi og – design, 2009 <br>
+Bachelor, Multimedieteknologi og –design, 2009 <br>
 Thesis Work: Web development - [Grimstad Skolemusikkorps](http://www.grimstadsmk.no/)
 
 ## Work Experience
