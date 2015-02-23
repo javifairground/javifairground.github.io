@@ -27,7 +27,8 @@ _10. 2011 - 05 2012_
 
 ##Academia
 [ISAGA 2014](http://www.isaga2014.com/), Dornbirn, Austria.<br>
-Research Poster: _Serious Games for Military Cultural Training_. [Poster](http://javifairground.github.io/doc/ResearchPosterA1_HanneFK.pdf)
+Research Poster: _Serious Games for Military Cultural Training_.<br>
+[Publication](https://www.academia.edu/8961453/In_The_Shift_from_Teaching_to_Learning_Individual_Collective_and_Organizational_Learning_through_Gaming_Simulation)& [Poster](http://javifairground.github.io/doc/ResearchPosterA1_HanneFK.pdf) 
 
 ## Talks
 
