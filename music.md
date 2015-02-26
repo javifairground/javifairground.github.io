@@ -1,0 +1,9 @@
+---
+layout: page
+title: Music 
+permalink: /music/
+---
+
+ 
+My most recent listens from [Last.fm](http://www.last.fm/user/JaviFairground):
+{% feed_display http://ws.audioscrobbler.com/1.0/user/JaviFairground/recenttracks.rss 5%}
