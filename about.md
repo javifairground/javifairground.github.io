@@ -17,6 +17,6 @@ Instead of bragging about myself, I'll link some strange media coverage. No need
 If you really really want to stalk, check this:
 
 * [LinkedIn](no.linkedin.com/in/hannefagerjordkarlsen/en) if that's your thing.
-* [Music](/music), I track most of it [here](http://www.last.fm/user/JaviFairground)
+* [Music](http://javifairground.github.io/music), I track most of it [here](http://www.last.fm/user/JaviFairground)
 * [Old blog](http://faircontemplations.blogspot.no/)
 * [Twitter](https://twitter.com/JaviFairground). I hardly ever use it.
