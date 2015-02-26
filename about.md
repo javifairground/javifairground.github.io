@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+
+
+
 Instead of bragging about myself, I'll link some strange media coverage. No need to stalk, it'll all be here(eventually).
 
 * So NRK wanted to know how this EEG business works.[Dataspill mot adhd](http://www.nrk.no/ho/dataspill-mot-adhd-1.7521058)
@@ -14,6 +17,6 @@ Instead of bragging about myself, I'll link some strange media coverage. No need
 If you really really want to stalk, check this:
 
 * [LinkedIn](no.linkedin.com/in/hannefagerjordkarlsen/en) if that's your thing.
-* Music, I track most of it [here](http://www.last.fm/user/JaviFairground)
+* [Music](/music), I track most of it [here](http://www.last.fm/user/JaviFairground)
 * [Old blog](http://faircontemplations.blogspot.no/)
 * [Twitter](https://twitter.com/JaviFairground). I hardly ever use it.
