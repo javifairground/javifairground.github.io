@@ -7,7 +7,7 @@ permalink: /about/
 
 
 
-Instead of bragging about myself, I'll link some strange media coverage. No need to stalk, it'll all be here(eventually).
+Instead of bragging about myself, I'll link some strange media coverage.
 
 * So NRK wanted to know how this EEG business works.[Dataspill mot adhd](http://www.nrk.no/ho/dataspill-mot-adhd-1.7521058)
 * I am female.[IT-Bransjen søker kvinner](http://www.nrk.no/ho/it-bransjen-soker-kvinner-1.7892856)
