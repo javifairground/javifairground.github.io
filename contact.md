@@ -5,13 +5,15 @@ permalink: /contact/
 ---
 
 
-I can be found multiple places:
+I can be contacted in multiple ways:
 
-* javi@EFNet
-* javi@QuakeNet
-* afiem@freenode
 * [javifairground@protonmail.ch](mailto:javifairground@protonmail.ch)
 * [hmkarlsen@gmail.com](mailto:hmkarlsen@gmail.com)
+* irc: javi@EFNet
+* irc: javi@QuakeNet
+* irc: afiem@freenode
+* xmpp: javifairground@dukgo.com
+
 
 
 
