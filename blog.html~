@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+
+
+
+<div class="posts py2">
+{% for post in site.posts %}
+<div class="post">
+<a href="{{ post.url }}" class="post-link">
+<a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
+<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+<p class="post-summary">{{ post.summary }}</p>
+</a>
+</div>
+{% endfor %}
+</div>
+
+
