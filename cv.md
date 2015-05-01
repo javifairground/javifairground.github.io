@@ -11,7 +11,7 @@ permalink: /cv/
 #### Rådgiver-IKT - [Sykehuspartner](http://www.sykehuspartner.no)
 _04. 2015 - Currently_
 
-#### IT-Konsulent - [Eika Servicesenter](https://eika.no/)
+#### IT-Konsulent - [Eika](https://eika.no/)
 _08. 2014 - 08.2014_
  
 #### Labvakt - IT-Tjenesten [Høgskolen i Gjøvik](https://hig.no/)  
