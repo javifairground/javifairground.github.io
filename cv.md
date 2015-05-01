@@ -6,6 +6,17 @@ permalink: /cv/
 
 ## Hanne Fagerjord Karlsen
 
+## Work
+
+#### Rådgiver-IKT - [Sykehuspartner](http://www.sykehuspartner.no)
+_04. 2015 - Currently_
+
+#### IT-Konsulent - [Eika Servicesenter](https://eika.no/)
+_08. 2014 - 08.2014_
+ 
+#### Labvakt - IT-Tjenesten [Høgskolen i Gjøvik](https://hig.no/)  
+_10. 2011 - 05 2012_
+
 ## Education
 __Høgskolen i Gjøvik__<br>
 Master in Applied Computer Science, 2014.<br>
@@ -16,14 +27,7 @@ __Universitetet i Agder__<br>
 Bachelor, Multimedieteknologi og –design, 2009 <br>
 Thesis Work: Web development - [Grimstad Skolemusikkorps](http://www.grimstadsmk.no/)
 
-## Work Experience
 
-#### IT-Konsulent - [Eika Servicesenter](https://eika.no/)
-_08. 2014 - 08.2014_
- 
-
-#### Labvakt - IT-Tjenesten [Høgskolen i Gjøvik](https://hig.no/)  
-_10. 2011 - 05 2012_
 
 ##Academia
 [ISAGA 2014](http://www.isaga2014.com/), Dornbirn, Austria.<br>
