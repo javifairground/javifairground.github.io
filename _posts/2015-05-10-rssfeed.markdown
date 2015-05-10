@@ -1,0 +1,25 @@
+---
+layout:     post
+title:      Youtube Subscriptions + RSS Reader
+date:       2015-05-10 19:15
+summary:    Youtube RSS
+categories: rss
+---
+
+So, why would you want to set up a youtube rss feed? Many reasons can be listed, but first and foremost it's a convenient way of keeping track of new videos without having to log in. As of April 2015, youtube[ dropped support for atom feeds](http://www.reddit.com/r/youtube/comments/339idg/youtube_just_dropped_its_support_for_rssatom_feeds/), making[ old methods ](http://scottnelle.com/466/youtube-subscriptions-rss-feed/) obsolete. You can no longer subscribe directly to your channel subscription feed(correct me if I'm wrong), but there are ways to export your existing subscriptions into various feed formats. The method described below is working right now(May 2015), but might change in the future.
+
+1. Compile a list of your youtube subscriptions. If you already have an account with subscriptions, you can go to the[ Youtube Subscription Manager ](http://youtube.com/subscription_manager?action_takeout=1) to get the opml code. Copy the text into an empty document and name it "youtube.opml" (opml being the file extension). 
+
+2. Import. Most RSS readers(Such as[ Liferea ](http://lzone.de/liferea/)and[ RSSOwl ](http://www.rssowl.org/))can import feeds from opml files. 
+
+3. Voila! No more need to use an account for your youtube subscriptions.
+
+Unfortunately, this method won't update your rss reader if you were to subscribe to new channels. From now on, you'll have to add channels manually to your preferred reader. 
+
+In case of future feed changes, I'd recommend keeping a spreadsheet with channel urls to all youtube channels you want to follow. This is the easy way:
+
+1. Go to the[ Youtube privacy settings ](http://www.youtube.com/account_privacy) and uncheck “Keep all my subscriptions private”. 
+2. Use[ this](http://www.williamsportwebdeveloper.com/SubsBackUp.aspx) website to export all your youtube subscriptions to a spreadsheet. If you want to stop logging in to youtube, I'd recomment adding subscriptions to this spreadsheet as well, just to keep track of them. 
+3. Create an opml file from the spreadsheet. Copy all links from the "channel link" field in the spreadsheet into the RSS feed field of[ this site](http://reader.feedshow.com/goodies/opml/OPMLBuilder-create-opml-from-rss-list.php). The opml file can be imported by most rss feed programs.
+
+
