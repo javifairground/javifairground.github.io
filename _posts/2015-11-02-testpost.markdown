@@ -1,9 +1,0 @@
----
-layout:     post
-title:      Testpost
-date:       2015-11-02 20:45
-summary:    Testpost
-categories: Testpost
----
-
-Testpost
