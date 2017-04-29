@@ -4,7 +4,7 @@ title:
 permalink: /cv/
 ---
 
-## Hanne Fagerjord Karlsen
+
 
 ## Work
 
