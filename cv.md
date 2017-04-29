@@ -12,7 +12,7 @@ permalink: /cv/
 _04. 2015 - Currently_
 
 #### IT-Konsulent - [Eika](https://eika.no/)
-_08. 2014 - 08.2014_
+_08. 2012 - 08.2014_
  
 #### Labvakt - IT-Tjenesten [Høgskolen i Gjøvik](https://hig.no/)  
 _10. 2011 - 05 2012_
