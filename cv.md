@@ -20,21 +20,17 @@ _10. 2011 - 05 2012_
 ## Education
 __Høgskolen i Gjøvik__<br>
 Master in Applied Computer Science, 2014.<br>
-Master Thesis: _Performance, motivation and immersion within a suite of working memory games._ Read it [here](http://javifairground.github.io/doc/Hanne_Fagerjord_Karlsen_MScThesis_MACS_2014.pdf) if you like.
+Master Thesis: _Performance, motivation and immersion within a suite of working memory games._ Read it [here](https://brage.bibsys.no/xmlui/bitstream/handle/11250/2366381/HF_Karlsen_2014.pdf?sequence=1&isAllowed=y) if you like.
 <br>
 <br>
 __Universitetet i Agder__<br>
 Bachelor, Multimedieteknologi og –design, 2009 <br>
 Thesis Work: Web development - [Grimstad Skolemusikkorps](http://www.grimstadsmk.no/)
 
-
-
-##Academia
-[ISAGA 2014](http://www.isaga2014.com/), Dornbirn, Austria.<br>
-Research Poster: _Serious Games for Military Cultural Training_.<br>
-[Publication](https://www.academia.edu/8961453/In_The_Shift_from_Teaching_to_Learning_Individual_Collective_and_Organizational_Learning_through_Gaming_Simulation)& [Poster](http://javifairground.github.io/doc/ResearchPosterA1_HanneFK.pdf) 
-
 ## Talks
+[Games for Health Europe 2016, Netherlands]()Talk w/Simon McCallum for the Mental Health Track.<br>
+_Motivation and immersion within a suite of working memory games_
+[Presentation](https://docs.google.com/presentation/d/1FzpQMhRycbK9Uaav3Jw4PalqTf17ik-8m37E9jirDFw/edit#slide=id.g4599de877_3_6)
 
 January 2014 - [Juniorakademiet](http://juniorakademiet.no), _Framtidas spillteknologi: Med Minecraft og Oculus Rift!_ [Media](http://www.oa.no/Syntax_error_for_kids-5-35-31274.html)
 
@@ -42,6 +38,15 @@ January 2014 - [Juniorakademiet](http://juniorakademiet.no), _Framtidas spilltek
 <br>
 <br>
 ![hanne](../images/hanneTG.jpg)
+
+##Publications
+[Master Thesis, 2014:]_Performance, motivation and immersion within a suite of working memory games._<br>
+(https://brage.bibsys.no/xmlui/bitstream/handle/11250/2366381/HF_Karlsen_2014.pdf?sequence=1&isAllowed=y) <br>
+
+[ISAGA 2014](http://www.isaga2014.com/), Dornbirn, Austria.<br>
+_Serious Games for Military Cultural Training_.<br>
+[Publication](http://www.academia.edu/download/35278958/book_45th_ISAGA_Conference.pdf#page=411)& [Poster](http://javifairground.github.io/doc/ResearchPosterA1_HanneFK.pdf) 
+
 
 ##Volunteering
 
