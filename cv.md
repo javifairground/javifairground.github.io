@@ -7,7 +7,7 @@ permalink: /cv/
 
 
 ## Work
-#### Application Manager - [Hospital IT](https://www.hospitality.no
+#### Application Manager - [Hospital IT](https://www.hospitality.no)
 _11. 2020 - Currently)
 #### Solution Consultant -[Proenco](https://proenco.com)
 _01. 2020 - 11 2020_
