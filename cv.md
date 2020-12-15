@@ -29,7 +29,7 @@ Bachelor, Multimedieteknologi og –design, 2009 <br>
 Thesis Work: Web development - Grimstad Skolemusikkorps
 
 ## Talks
-[Games for Health Europe 2016, Netherlands](Talk w/Simon McCallum for the Mental Health Track.<br>
+[Games for Health Europe 2016, Netherlands: ](https://www.gamesforhealtheurope.org) Talk w/Simon McCallum for the Mental Health Track.<br>
 _Motivation and immersion within a suite of working memory games_
 [Presentation](https://docs.google.com/presentation/d/1FzpQMhRuycbK9Uaav3Jw4PalqTf17ik-8m37E9jirDFw/edit#slide=id.g4599de877_3_6)
 
@@ -45,10 +45,10 @@ January 2014 - [Juniorakademiet](http://juniorakademiet.no), _Framtidas spilltek
 
 [ISAGA 2014](http://www.isaga2014.com/), Dornbirn, Austria.<br>
 _Serious Games for Military Cultural Training_.<br>
-[Publication](https://www.researchgate.net/publication/266430002_The_Shift_from_Teaching_to_Learning_Individual_Collective_and_Organizational_Learning_through_Gaming_Simulation)& [Poster](http://javifairground.github.io/doc/ResearchPosterA1_HanneFK.pdf) 
+[Publication](https://www.researchgate.net/publication/266430002_The_Shift_from_Teaching_to_Learning_Individual_Collective_and_Organizational_Learning_through_Gaming_Simulation)& [Poster](http://javifairground.github.io/doc/ResearchPosterA1_HanneFK.pdf)<br> 
 
 
-##Volunteering
+## Volunteering
 
 __International Student Assistant__, Høgskolen i Gjøvik, Spring 2010<br>
 _Assisting International Students at Gjøvik University College_
