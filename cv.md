@@ -7,7 +7,7 @@ permalink: /cv/
 #### Application Manager - [Hospital IT](https://www.hospitality.no)
 _11. 2020 - Currently_
 #### Solution Consultant -[Proenco](https://proenco.com)
-_01. 2020 - 11 2020_
+_01. 2020 - 11.2020_
 #### Rådgiver-IKT - [Sykehuspartner](http://www.sykehuspartner.no)
 _04. 2015 - 12.2019_
 
