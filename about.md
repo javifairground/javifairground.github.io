@@ -14,5 +14,5 @@ If you really really want to stalk, check this:
 
 * [LinkedIn](no.linkedin.com/in/hannefagerjordkarlsen/en) 
 * [Music](http://javifairground.github.io/music), music tracking
-* [Old blog](http://faircontemplations.blogspot.no/) ye olde blog
+* [Ye olde blog](http://faircontemplations.blogspot.no/)
 * [Twitter](https://twitter.com/JaviFairground). I hardly ever use it.
