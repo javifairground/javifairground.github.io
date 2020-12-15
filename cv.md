@@ -4,7 +4,7 @@ title:
 permalink: /cv/
 ---
 
-## Work
+## Work ##
 #### Application Manager - [Hospital IT](https://www.hospitality.no)
 _11. 2020 - Currently_
 #### Solution Consultant -[Proenco](https://proenco.com)
@@ -40,7 +40,7 @@ January 2014 - [Juniorakademiet](http://juniorakademiet.no), _Framtidas spilltek
 <br>
 ![hanne](../images/hanneTG.jpg)
 
-##Publications
+## Publications
 [Master Thesis, 2014:](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2366381)Performance, motivation and immersion within a suite of working memory games.<br>
 
 [ISAGA 2014](http://www.isaga2014.com/), Dornbirn, Austria.<br>
