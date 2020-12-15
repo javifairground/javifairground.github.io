@@ -4,7 +4,7 @@ title:
 permalink: /cv/
 ---
 
-
+## Work
 #### Application Manager - [Hospital IT](https://www.hospitality.no)
 _11. 2020 - Currently_
 #### Solution Consultant -[Proenco](https://proenco.com)
