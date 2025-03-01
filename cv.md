@@ -3,9 +3,10 @@ layout: page
 title: Work  
 permalink: /cv/
 ---
-
+#### Technical Specialist - [Omda](https://www.omda.com)
+_11. 2023 - Currently_
 #### Application Manager - [Hospital IT](https://www.hospitality.no)
-_11. 2020 - Currently_
+_11. 2020 - 2023_
 #### Solution Consultant -[Proenco](https://proenco.com)
 _01. 2020 - 11.2020_
 #### Rådgiver-IKT - [Sykehuspartner](http://www.sykehuspartner.no)
