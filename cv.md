@@ -3,7 +3,7 @@ layout: page
 title: Work  
 permalink: /cv/
 ---
-#### Technical Specialist - [Omda](https://www.omda.com)
+#### Technical Specialist  - [Omda](https://www.omda.com)
 _11. 2023 - Currently_
 #### Application Manager - [Hospital IT](https://www.hospitality.no)
 _11. 2020 - 2023_
